@@ -1,4 +1,4 @@
-import os, time, cv2
+import cv2
 
 # SGY EKOSİSTEM VERİ BANKASI
 SGY_MODULES = [
