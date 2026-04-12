@@ -19,4 +19,4 @@ python sgy_unified_core.py
 
 ## Bagimliliklar
 
-- `opencv-python`
+- `opencv-python-headless`
